@@ -17,7 +17,7 @@ Coming soon!
 # TV Shows
 ## Cable/OTA
 ### FOX
-Family Guy - Seasons 1-8
+*Family Guy - Seasons 1-8*
 
 The title says it all. The full first 8 seasons of Family Guy, no commercials. Most of the episodes are standard-def rips from TV though, so if you enjoy a premium watching experience then I recommend you use a putlocker and download from there (I used that to watch that one Paramount+ show!)
 
