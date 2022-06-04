@@ -1,12 +1,15 @@
 # Fantastic torrents, and where to find them
 A project to categorize some pretty lit torrents
 
-Donate to the project here:
+# Donate to the project here:
+
 Bitcoin - **bc1qw3sr34en2u7mtcs796nn2yzad5aw97p9pmj2nu**
+
 Ethereum - **0x06D4316fEe95A6cf4B82De172dfA8a13638Add49**
+
 Dogecoin - **DKTewUKMBNBx7Kt4MxqT8pturSQ4az7r6x**
 
-Current Index:
+**Current Index:**
 
 # Movies
 Coming soon!
